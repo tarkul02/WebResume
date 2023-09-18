@@ -22,6 +22,7 @@ body {
     position: fixed;
     /* background: #040404 url("../img/bg6.jpg") top right no-repeat; */
     background: #040404 ;
+    
     background-size: cover;
     left: 0;
     right: 0;
